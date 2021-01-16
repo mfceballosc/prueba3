@@ -26,4 +26,4 @@ class Shepadoodle (Pastor_Aleman, Caniche):
 Tommy = Pastor_Aleman()
 Piny = Caniche()
 Cuchele = Shepadoodle()
-Cuchele.ladrarx(5)
+Cuchele.ladrarx(3)
