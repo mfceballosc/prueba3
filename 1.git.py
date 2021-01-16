@@ -12,8 +12,8 @@ class Caniche(Perros):
         print("""gñññññññiiii gñññiiii""")
 
 class Pastor_Aleman(Perros):
-    def ladrar(self):
-        print("""GuaUUUU  GuaUUUUU  GuaUUUUUU""")
+    #def ladrar(self):
+    #    print("""GuaUUUU  GuaUUUUU  GuaUUUUUU""")
     
     def grunir(self):
         print("Agrfgregreff aggrrfsgrrr")
